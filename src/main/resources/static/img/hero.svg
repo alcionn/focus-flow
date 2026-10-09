@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 220" fill="none" role="img" aria-label="Colored time blocks stacked like stairs toward a flag">
+  <circle cx="262" cy="52" r="34" fill="#FFE3A3"/>
+  <circle cx="262" cy="52" r="48" stroke="#FFE3A3" stroke-opacity=".25" stroke-width="2"/>
+  <path d="M20 150c40-30 70-6 110-34s70-30 100-62" stroke="#fff" stroke-opacity=".28" stroke-width="2" stroke-dasharray="2 8" stroke-linecap="round"/>
+  <rect x="24" y="140" width="58" height="56" rx="10" fill="#7C93FF"/>
+  <rect x="90" y="112" width="58" height="84" rx="10" fill="#3CCDB5"/>
+  <rect x="156" y="84" width="58" height="112" rx="10" fill="#FFA94D"/>
+  <rect x="222" y="56" width="58" height="140" rx="10" fill="#A58BFF"/>
+  <path d="M251 56V18" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+  <path d="M251 18l30 10-30 10z" fill="#FF7FAE"/>
+  <rect x="10" y="196" width="290" height="6" rx="3" fill="#fff" fill-opacity=".2"/>
+  <circle cx="53" cy="168" r="4" fill="#141C33" fill-opacity=".35"/>
+  <circle cx="119" cy="140" r="4" fill="#141C33" fill-opacity=".35"/>
+  <circle cx="185" cy="112" r="4" fill="#141C33" fill-opacity=".35"/>
+  <circle cx="251" cy="84" r="4" fill="#141C33" fill-opacity=".35"/>
+</svg>
